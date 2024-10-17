@@ -1,0 +1,16 @@
+data/scannet/scannet_instance_data
+data/scannet/scannet_instance_data_backup
+data/scannet/scenes_processed
+data/scannet/scenes_deprecated
+data/scannet/scans*
+__pycache__
+*.bin
+*.pkl
+*.zip
+posed_images*
+scannet_instance*
+scannet_test_instance*
+.vscode/setting.json
+nltk_data
+*.pt
+*.npy

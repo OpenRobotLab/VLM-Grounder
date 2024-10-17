@@ -1,0 +1,6 @@
+[submodule "3rdparty/pats"]
+	path = 3rdparty/pats
+	url = https://github.com/zju3dv/pats.git
+[submodule "3rdparty/Grounding-DINO-1.5-API"]
+	path = 3rdparty/Grounding-DINO-1.5-API
+	url = https://github.com/IDEA-Research/Grounding-DINO-1.5-API.git
