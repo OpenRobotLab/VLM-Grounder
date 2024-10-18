@@ -15,10 +15,10 @@ Visual Grounding</strong></h1>
 </p>
 
 <p align="center">
-  <a href="http://arxiv.org/abs/2308.16911" target='_**blank**'>
+  <a href="https://arxiv.org/abs/2410.13860" target='_**blank**'>
     <img src="https://img.shields.io/badge/arXiv-2308.16911-blue?">
   </a> 
-  <a href="https://arxiv.org/pdf/2308.16911.pdf" target='_blank'>
+  <a href="https://arxiv.org/pdf/2410.13860" target='_blank'>
     <img src="https://img.shields.io/badge/Paper-📖-blue?">
   </a> 
   <a href="https://runsenxu.com/projects/VLM-Grounder" target='_blank'>
@@ -36,7 +36,7 @@ Visual Grounding</strong></h1>
 We present VLM-Grounder, a novel framework using vision-language models (VLMs) for zero-shot 3D visual grounding based solely on 2D images. VLM-Grounder dynamically stitches image sequences, employs a grounding and feedback scheme to find the target object, and uses a multi-view ensemble projection to accurately estimate 3D bounding boxes. Experiments on ScanRefer and Nr3D datasets show VLM-Grounder outperforms previous zero-shot methods, achieving 51.6% Acc@0.25 on ScanRefer and 48.0% Acc on Nr3D, without relying on 3D geometry or object priors.
 
 ## 🔥 News
-- [2024-10-17] We release the [paper]() of VLM-Grounder and all the codes! We are looking for self-motivated students to conduct research regarding VLM (agent) for 3D perception. Please send an email to runsxu@gmail.com with your CV if you are interested! 🔥
+- [2024-10-17] We release the [paper](https://arxiv.org/abs/2410.13860) of VLM-Grounder and all the codes! We are looking for self-motivated students to conduct research regarding VLM (agent) for 3D perception. Please send an email to runsxu@gmail.com with your CV if you are interested! 🔥
 - [2024-09-04] VLM-Grounder has been accepted by CoRL 2024! 🎉
 
 ## 📋 Contents
