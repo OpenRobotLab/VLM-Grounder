@@ -27,6 +27,9 @@ Visual Grounding</strong></h1>
   <a href="" target='_blank'>
     <img src="https://visitor-badge.laobi.icu/badge?page_id=OpenRobotLab.vlm-grounder&left_color=gray&right_color=blue">
   </a>
+  <a href="https://www.youtube.com/watch?v=loxJb2XSrMw" target='_blank'>
+  <img src="https://img.shields.io/badge/YouTube-🎥-blue?logo=youtube&logoColor=white">
+  </a>
 </p>
 
 ## 🏠 About
