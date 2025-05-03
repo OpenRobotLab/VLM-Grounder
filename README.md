@@ -98,7 +98,7 @@ pip install -r requirements.txt
 pip install "git+https://github.com/facebookresearch/pytorch3d.git"
 ```
 
-**SAM-Huge:** Download the SAM-Huge weight file from [here](https://huggingface.co/spaces/abhishek/StableSAM/blob/main/sam_vit_h_4b8939.pth) and place it in the `checkpoints/SAM` folder.
+**SAM-Huge:** Download the SAM-Huge weight file from [here](https://dl.fbaipublicfiles.com/segment_anything/sam_vit_h_4b8939.pth) and place it in the `checkpoints/SAM` folder.
 
 **PATS:** For image matching, we use PATS. Download the required [weights](https://drive.google.com/drive/folders/1SEz5oXVH1MQ2Q9lzLmz_6qQUoe6TAJL_?usp=sharing) and place them in the `3rdparty/pats/weights` folder.
 
