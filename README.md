@@ -1,4 +1,3 @@
-<br>
 <p align="center">
 <h1 align="center"><strong>VLM-Grounder: A VLM Agent for Zero-Shot 3D
 Visual Grounding</strong></h1>
